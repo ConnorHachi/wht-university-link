@@ -15,7 +15,6 @@ var univ_list = {
         url: "https://mail.jxust.edu.cn/"
     },{
         name: "校园VPN",                       
-        url: "http://webvpn.jxust.edu.cn/users/sign_in/"
-    }
-    ]
+        url: "http://webvpn.jxust.edu.cn/users/sign_in"
+    }]
 };
