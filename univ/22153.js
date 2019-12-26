@@ -10,11 +10,11 @@ var univ_list = {
     }, {
         name: "图书馆",                       
         url: "https://tsg.jxust.edu.cn/"
-    },{
+    }, {
         name: "校园邮箱",                       
         url: "https://mail.jxust.edu.cn/"
-    },{
+    }, {
         name: "校园VPN",                       
         url: "http://webvpn.jxust.edu.cn/users/sign_in"
-    }]
+    } ]
 };
